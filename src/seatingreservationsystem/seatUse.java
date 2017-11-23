@@ -9,6 +9,6 @@ package seatingreservationsystem;
  *
  * @author Sarah
  */
-public class seatUse {
+public class SeatUse {
     
 }

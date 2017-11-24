@@ -10,5 +10,5 @@ package seatingreservationsystem;
  * @author Sarah
  */
 public class Seat {
-    
+    JEZUZ
 }

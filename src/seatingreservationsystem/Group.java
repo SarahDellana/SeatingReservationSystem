@@ -9,6 +9,16 @@ package seatingreservationsystem;
  *
  * @author Sarah
  */
-public class Group {
+public class Group { 
+    private String groupName;
     
+public Group (String groupName) {
+    
+    this.groupName = groupName; 
+    
+}
+
+getcommit 
+public String 
+
 }

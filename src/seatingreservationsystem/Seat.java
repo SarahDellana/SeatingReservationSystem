@@ -11,4 +11,18 @@ package seatingreservationsystem;
  */
 public class Seat {
     
+    private int seatNumber;
+
+public Seat (int seatNumber) {
+    
+    this.seatNumber = seatNumber;
+}
+
+public int getseatNumber () {
+    return seatNumber;    
+}
+
+public void setseatNumber (int seatNumber) {
+    this.seatNumber = seatNumber; 
+}
 }

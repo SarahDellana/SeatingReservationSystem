@@ -22,6 +22,14 @@ public Ticket (String ticketName, String ticketDate, String ticketTime) {
     this.ticketTime = ticketTime; 
 }
 
+    Ticket() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    Ticket(String the_Jungle_Book) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 public String getticketName () {
     return ticketName; 
     
@@ -46,6 +54,10 @@ public void setshowDate(String ticketDate) {
 public void setticketTime (String ticketTime) {
        this.ticketTime = ticketTime; 
 }
+
+    void setTicket(String string) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 
 
 }

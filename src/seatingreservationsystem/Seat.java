@@ -18,6 +18,10 @@ public Seat (int seatNumber) {
     this.seatNumber = seatNumber;
 }
 
+    Seat(int i, int i0, int i1, int i2, int i3) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 public int getseatNumber () {
     return seatNumber;    
 }
